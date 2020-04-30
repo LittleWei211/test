@@ -13,7 +13,7 @@
     "better-scroll": "^1.15.2",
     "echarts": "^4.2.1",
     "iscroll": "^5.2.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.nicescroll": "^3.7.6",
     "vue": "^2.5.2",
     "vue-happy-scroll": "^2.1.0",
